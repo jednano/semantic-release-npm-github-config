@@ -9,8 +9,6 @@ All notable changes to this project will be documented in this file. See [Conven
 
 * add notes after title ([e97d855](https://github.com/jedmao/semantic-release-npm-github-config/commit/e97d855))
 
-# Changelog
-
 ## [1.0.2](https://github.com/jedmao/semantic-release-npm-github-config/compare/v1.0.1...v1.0.2) (2019-06-11)
 
 
