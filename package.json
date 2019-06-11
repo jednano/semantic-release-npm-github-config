@@ -22,7 +22,8 @@
     "semantic-release-config",
     "npm",
     "github",
-    "git"
+    "git",
+    "release"
   ],
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
