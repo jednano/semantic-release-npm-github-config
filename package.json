@@ -23,7 +23,8 @@
     "npm",
     "github",
     "git",
-    "release"
+    "release",
+    "changelog"
   ],
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
