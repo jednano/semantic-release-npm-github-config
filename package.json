@@ -1,0 +1,62 @@
+{
+  "name": "@jedmao/semantic-release-npm-github-config",
+  "version": "1.0.0",
+  "description": "semantic-release shareable configuration for npm + GitHub",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "scripts": {
+    "commit": "git-cz",
+    "test": "xo"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmao/semantic-release-npm-github-config.git"
+  },
+  "keywords": [
+    "semantic-release",
+    "semantic-release-config",
+    "npm",
+    "github",
+    "git"
+  ],
+  "author": "Jed Mao <jedmao@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/semantic-release-npm-github-config/issues"
+  },
+  "homepage": "https://github.com/jedmao/semantic-release-npm-github-config#readme",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "prettier": {
+    "printWidth": 120,
+    "trailingComma": "es5"
+  },
+  "xo": {
+    "prettier": true
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^3.0.2",
+    "@semantic-release/commit-analyzer": "^6.1.0",
+    "@semantic-release/git": "^7.0.8",
+    "@semantic-release/github": "^5.2.10",
+    "@semantic-release/npm": "^5.1.7",
+    "@semantic-release/release-notes-generator": "^7.1.4"
+  },
+  "peerDependencies": {
+    "semantic-release": ">=15.13.12 <16.0.0"
+  },
+  "devDependencies": {
+    "commitizen": "^3.1.1",
+    "cz-conventional-changelog": "^2.1.0",
+    "semantic-release": "^15.13.12",
+    "xo": "^0.24.0"
+  }
+}
