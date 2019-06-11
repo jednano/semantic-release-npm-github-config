@@ -1,10 +1,10 @@
 {
   "name": "@jedmao/semantic-release-npm-github-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "semantic-release shareable configuration for npm + GitHub",
-  "main": "index.json",
+  "main": ".releaserc.json",
   "files": [
-    "index.json"
+    ".releaserc.json"
   ],
   "scripts": {
     "commit": "git-cz",
