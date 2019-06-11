@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/jedmao/semantic-release-npm-github-config/compare/v1.0.1...v1.0.2) (2019-06-11)
+
+
+### Bug Fixes
+
+* add # before Changelog title ([9c6dd04](https://github.com/jedmao/semantic-release-npm-github-config/commit/9c6dd04))
+
 ## [1.0.1](https://github.com/jedmao/semantic-release-npm-github-config/compare/v1.0.0...v1.0.1) (2019-06-11)
 
 
