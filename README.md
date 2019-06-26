@@ -34,7 +34,7 @@ The shareable config can be configured in the [**semantic-release** configuratio
 
 ## Configuration
 
-Ensure that your CI configuration has the following secret environment variables set:
+Ensure that your CI configuration has the following environment variables set:
 - [`GH_TOKEN`](https://github.com/settings/tokens) with [`public_repo`](https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/#available-scopes) access.
 - [`NPM_TOKEN`](https://docs.npmjs.com/cli/token)
 
