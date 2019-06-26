@@ -2,8 +2,8 @@
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) shareable config to publish npm packages with [GitHub](https://github.com).
 
-[![Travis](https://img.shields.io/travis/jedmao/semantic-release-npm-github-config.svg?style=flat-square)](https://travis-ci.com/jedmao/semantic-release-npm-github-config)
-[![npm version](https://img.shields.io/npm/v/@jedmao/semantic-release-npm-github-config/latest.svg?style=flat-square)](https://www.npmjs.com/package/@jedmao/semantic-release-npm-github-config)
+[![Travis](https://img.shields.io/travis/com/jedmao/semantic-release-npm-github-config.svg?style=popout-square&logo=travis)](https://travis-ci.com/jedmao/semantic-release-npm-github-config)
+[![npm version](https://img.shields.io/npm/v/@jedmao/semantic-release-npm-github-config/latest.svg?style=popout-square&logo=npm)](https://www.npmjs.com/package/@jedmao/semantic-release-npm-github-config)
 
 ## Plugins
 
@@ -34,7 +34,7 @@ The shareable config can be configured in the [**semantic-release** configuratio
 
 ## Configuration
 
-Ensure that your CI configuration has the following environment variables set:
+Ensure that your CI configuration has the following **_secret_** environment variables set:
 - [`GH_TOKEN`](https://github.com/settings/tokens) with [`public_repo`](https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/#available-scopes) access.
 - [`NPM_TOKEN`](https://docs.npmjs.com/cli/token)
 
