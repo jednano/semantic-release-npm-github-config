@@ -18,7 +18,7 @@ This shareable configuration use the following plugins:
 ## Install
 
 ```bash
-$ npm install --save-dev semantic-release semantic-release-npm-github-config
+$ npm install --save-dev semantic-release @jedmao/semantic-release-npm-github-config
 ```
 
 ## Usage
