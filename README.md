@@ -2,7 +2,7 @@
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) shareable config to publish npm packages with [GitHub](https://github.com).
 
-[![Travis](https://img.shields.io/travis/jedmao/semantic-release-npm-github-config.svg?style=flat-square)](https://travis-ci.org/jedmao/semantic-release-npm-github-config)
+[![Travis](https://img.shields.io/travis/jedmao/semantic-release-npm-github-config.svg?style=flat-square)](https://travis-ci.com/jedmao/semantic-release-npm-github-config)
 [![npm version](https://img.shields.io/npm/v/@jedmao/semantic-release-npm-github-config/latest.svg?style=flat-square)](https://www.npmjs.com/package/@jedmao/semantic-release-npm-github-config)
 
 ## Plugins
