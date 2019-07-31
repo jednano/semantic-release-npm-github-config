@@ -7,13 +7,21 @@
 
 ## Plugins
 
-This shareable configuration use the following plugins:
+This [shareable configuration](https://github.com/jedmao/semantic-release-npm-github-config/blob/master/.releaserc.json) uses the following plugins:
 
 - [`@semantic-release/commit-analyzer`](https://github.com/semantic-release/commit-analyzer)
 - [`@semantic-release/release-notes-generator`](https://github.com/semantic-release/release-notes-generator)
 - [`@semantic-release/npm`](https://github.com/semantic-release/npm)
 - [`@semantic-release/github`](https://github.com/semantic-release/github)
 - [`@semantic-release/git`](https://github.com/semantic-release/git)
+
+## Summary
+
+- Provides an informative [git](https://github.com/semantic-release/git) commit message for the release commit that does not trigger continuous integration and conforms to the [conventional commits specification](https://www.conventionalcommits.org/) (e.g., "chore(release): 1.2.3 [skip ci]\n\nnotes").
+- Creates a tarball that gets uploaded with each [GitHub release](https://github.com/semantic-release/github).
+- Publishes the same tarball to [npm](https://github.com/semantic-release/npm).
+- Commits the version change in `package.json`.
+- Creates or updates a [changelog](https://github.com/semantic-release/changelog) file.
 
 ## Install
 
