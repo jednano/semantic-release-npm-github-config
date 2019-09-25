@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jedmao/semantic-release-npm-github-config.git"
+    "url": "https://github.com/jedmao/semantic-release-npm-github-config.git"
   },
   "keywords": [
     "semantic-release",
@@ -45,20 +45,20 @@
     "prettier": true
   },
   "dependencies": {
-    "@semantic-release/changelog": "^3.0.2",
-    "@semantic-release/commit-analyzer": "^6.1.0",
-    "@semantic-release/git": "^7.0.8",
-    "@semantic-release/github": "^5.2.10",
-    "@semantic-release/npm": "^5.1.7",
-    "@semantic-release/release-notes-generator": "^7.1.4"
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/commit-analyzer": "^6.3.0",
+    "@semantic-release/git": "^7.0.16",
+    "@semantic-release/github": "^5.4.3",
+    "@semantic-release/npm": "^5.1.15",
+    "@semantic-release/release-notes-generator": "^7.3.0"
   },
   "peerDependencies": {
-    "semantic-release": ">=15.13.12 <16.0.0"
+    "semantic-release": ">=15.13.24"
   },
   "devDependencies": {
-    "commitizen": "^3.1.1",
-    "cz-conventional-changelog": "^2.1.0",
-    "semantic-release": "^15.13.12",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.0.2",
+    "semantic-release": "^15.13.24",
     "xo": "^0.24.0"
   }
 }

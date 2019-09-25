@@ -11,13 +11,13 @@
 		[
 			"@semantic-release/npm",
 			{
-				"tarballDir": "dist"
+				"tarballDir": "pack"
 			}
 		],
 		[
 			"@semantic-release/github",
 			{
-				"assets": "dist/*.tgz"
+				"assets": "pack/*.tgz"
 			}
 		],
 		[
