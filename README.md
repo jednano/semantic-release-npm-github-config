@@ -4,7 +4,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![GitHub Actions](https://github.com/jedmao/semantic-release-npm-github-config/workflows/master/badge.svg)](https://github.com/jedmao/semantic-release-npm-github-config/actions)
+[![GitHub Actions](https://github.com/jedmao/semantic-release-npm-github-config/workflows/Node%20CI/badge.svg?event=push)](https://github.com/jedmao/semantic-release-npm-github-config/actions)
 [![npm version](https://img.shields.io/npm/v/@jedmao/semantic-release-npm-github-config/latest.svg)](https://www.npmjs.com/package/@jedmao/semantic-release-npm-github-config)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
