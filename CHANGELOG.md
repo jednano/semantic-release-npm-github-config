@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.9](https://github.com/jedmao/semantic-release-npm-github-config/compare/v1.0.8...v1.0.9) (2019-12-02)
+
+
+### Bug Fixes
+
+* update dependencies, audit fix ([4f07b55](https://github.com/jedmao/semantic-release-npm-github-config/commit/4f07b55022212a4d3c721219a805c949857ef7ae))
+
 ## [1.0.8](https://github.com/jedmao/semantic-release-npm-github-config/compare/v1.0.7...v1.0.8) (2019-11-03)
 
 
